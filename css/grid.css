@@ -1,0 +1,9 @@
+.wrapper{
+	margin: 5px;
+	padding: 5px;
+	border: 2px solid black;
+}
+
+.card-panel{
+	margin: 0.5rem 0 0.5rem 0;
+}
